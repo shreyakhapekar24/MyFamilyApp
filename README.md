@@ -11,3 +11,6 @@ This application offers a convenient and secure way to log in using your Google 
 
 ![Screenshot (278)](https://github.com/shreyakhapekar24/MyFamilyApp/assets/97623859/538c04f6-0371-4818-8f42-c12fd983557f)
 
+The home page of the "MyFamily" app is your hub for connecting with your trusted circle. Here, you'll find a list of family members and contacts who have either accepted your invitation to join the app or whose invitations you've approved. This screen offers a lifeline during emergencies, allowing you to swiftly contact these members with a simple tap.
+
+Moreover, the app provides a seamless experience for expanding your network of safety. You can easily send invites to your contacts who are not yet part of the app by clicking the "Invite" button conveniently located below their profile photo. This ensures that your safety net is always within reach and continues to grow, providing peace of mind for you and your loved ones.
