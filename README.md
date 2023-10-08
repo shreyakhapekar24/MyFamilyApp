@@ -31,3 +31,18 @@ Dashboard Screen:
 
 ![Screenshot (284)](https://github.com/shreyakhapekar24/MyFamilyApp/assets/97623859/21194059-a627-4f33-87a6-99e91586d5aa)
 
+The "Dashboard" tab is your window to real-time peace of mind. Here, you can access a dynamic map that displays the live locations of your family members. This feature ensures that you can keep an eye on your loved ones, no matter where they are.
+It's not just about knowing where they are right now; it's about planning journeys and making sure everyone reaches their destination safely.  On the "Dashboard" page, you can coordinate family trips, ensuring that every member arrives securely. It's a tool that enhances both convenience and safety in your day-to-day life.
+
+
+Guard Screen:
+
+![Screenshot (283)](https://github.com/shreyakhapekar24/MyFamilyApp/assets/97623859/3a5889b7-9fbd-4a68-a4cb-f5768da51c4c)
+
+The "Guard" screen  is your virtual security companion. It offers two critical features: SOS and Guard mode.
+
+SOS: In times of emergency, the SOS feature becomes your lifeline. It continuously notifies your family members to contact you, ensuring you get the help you need promptly.
+
+Guard: Use Guard mode when embarking on potentially risky journeys. It keeps your family informed of your whereabouts and status, offering an extra layer of security.
+
+Furthermore, you can invite trusted individuals to join your network by simply entering their email addresses. Additionally, you have the power to accept or deny invitations from others. It is your one-stop destination for enhancing your safety and the security of your loved ones.
