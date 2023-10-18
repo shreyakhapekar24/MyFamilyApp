@@ -6,7 +6,12 @@
 
 User's Permission:
 
-![Screenshot (277)](https://github.com/shreyakhapekar24/MyFamilyApp/assets/97623859/dcbc2fc9-ce1d-4369-919d-90a7a85a6898)
+
+
+![Screenshot (277)](https://github.com/shreyakhapekar24/MyFamilyApp/assets/97623859/1fedb0cf-0b89-4d0b-9e72-83770b9f7624)
+
+
+
 
 In this app, ensuring user privacy and consent is paramount. When the app is installed and launched for the first time, it requests the user's permission to access their contacts. This permission is essential to enable features like sending invitations to family members and contacts in case of emergencies. Users are presented with a clear and concise permission request dialog. Users can choose to grant or deny this permission based on their comfort and preferences, ensuring complete control over their data.
 
