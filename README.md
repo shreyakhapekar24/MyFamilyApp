@@ -4,7 +4,7 @@
 
 
 
-User's Permission:
+##User's Permission:
 
 
 
@@ -18,7 +18,7 @@ In this app, ensuring user privacy and consent is paramount. When the app is ins
 
 
 
-Login Screen: 
+##Login Screen: 
 
 ![Screenshot (279)](https://github.com/shreyakhapekar24/MyFamilyApp/assets/97623859/dc8da91d-2297-437c-82cd-15a076fbf856)
 
@@ -26,7 +26,7 @@ This application offers a convenient and secure way to log in using your Google 
 
 
 
-Home Screen:
+##Home Screen:
 
 ![Screenshot (278)](https://github.com/shreyakhapekar24/MyFamilyApp/assets/97623859/538c04f6-0371-4818-8f42-c12fd983557f)
 
@@ -35,7 +35,7 @@ The home page of the "MyFamily" app is your hub for connecting with your trusted
 
 
 
-Dashboard Screen:
+##Dashboard Screen:
 
 ![Screenshot (284)](https://github.com/shreyakhapekar24/MyFamilyApp/assets/97623859/21194059-a627-4f33-87a6-99e91586d5aa)
 
@@ -45,7 +45,7 @@ It's not just about knowing where they are right now; it's about planning journe
 
 
 
-Guard Screen:
+##Guard Screen:
 
 ![Screenshot (283)](https://github.com/shreyakhapekar24/MyFamilyApp/assets/97623859/3a5889b7-9fbd-4a68-a4cb-f5768da51c4c)
 
