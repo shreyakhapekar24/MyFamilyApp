@@ -20,6 +20,9 @@ In this app, ensuring user privacy and consent is paramount. When the app is ins
 
 ## Login Screen: 
 
+
+
+
 ![Screenshot (279)](https://github.com/shreyakhapekar24/MyFamilyApp/assets/97623859/dc8da91d-2297-437c-82cd-15a076fbf856)
 
 This application offers a convenient and secure way to log in using your Google account. On the login page, users are presented with the option to "Continue with Google." By allowing users to easily access the app using their current Google credentials, the login procedure has been shortened to make the onboarding process easier. By selecting this option, users may enjoy a quick and easy login process while preserving the security and dependability of their Google account. It's a simple and reliable way to guarantee quick access to the app's useful safety features.
@@ -27,6 +30,9 @@ This application offers a convenient and secure way to log in using your Google 
 
 
 ## Home Screen:
+
+
+
 
 ![Screenshot (278)](https://github.com/shreyakhapekar24/MyFamilyApp/assets/97623859/538c04f6-0371-4818-8f42-c12fd983557f)
 
@@ -37,6 +43,9 @@ The home page of the "MyFamily" app is your hub for connecting with your trusted
 
 ## Dashboard Screen:
 
+
+
+
 ![Screenshot (284)](https://github.com/shreyakhapekar24/MyFamilyApp/assets/97623859/21194059-a627-4f33-87a6-99e91586d5aa)
 
 The "Dashboard" tab is your window to real-time peace of mind. Here, you can access a dynamic map that displays the live locations of your family members. This feature ensures that you can keep an eye on your loved ones, no matter where they are.
@@ -46,6 +55,9 @@ It's not just about knowing where they are right now; it's about planning journe
 
 
 ## Guard Screen:
+
+
+
 
 ![Screenshot (283)](https://github.com/shreyakhapekar24/MyFamilyApp/assets/97623859/3a5889b7-9fbd-4a68-a4cb-f5768da51c4c)
 
