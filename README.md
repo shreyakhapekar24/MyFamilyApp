@@ -14,8 +14,6 @@
 In this app, ensuring user privacy and consent is paramount. When the app is installed and launched for the first time, it requests the user's permission to access their contacts. This permission is essential to enable features like sending invitations to family members and contacts in case of emergencies. Users are presented with a clear and concise permission request dialog. Users can choose to grant or deny this permission based on their comfort and preferences, ensuring complete control over their data.
 
 
-
-
 ## Login Screen: 
 
 
